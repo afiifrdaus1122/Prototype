@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <script>
@@ -16,14 +16,6 @@
     }
   }
 </script>
-
-<!-- Tambahkan tombol share di UI -->
-<button onclick="shareApp()">
-  <i class="fas fa-share"></i> Bagikan Aplikasi
-</button>
-    <!-- PWA Meta Tags -->
-    <link rel="manifest" href="/manifest.json">
-    <meta name="theme-color" content="#047857">
 
     <!-- iOS Support -->
     <link rel="apple-touch-icon" href="/icons/icon-192x192.png">
